@@ -33,7 +33,7 @@ ADC7    hack header
 
 */
 
-#define RESET_TIME 15 * 60
+#define RESET_TIME 25 * 60
 
 volatile int16_t countdown = RESET_TIME;
 
